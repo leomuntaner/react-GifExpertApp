@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` Tests en Gif Expert App  DEBE DE MOSTRAR UNA LISTA DE CATEGORIAS 1`] = `ShallowWrapper {}`;
+
+exports[` Tests en Gif Expert App  Debe mostrarse crrectamente 1`] = `ShallowWrapper {}`;

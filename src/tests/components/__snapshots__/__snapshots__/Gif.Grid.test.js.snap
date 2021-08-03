@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <GifGrid/>>  Debe de mostrar items cuando se cargan imagenes useFetch 1`] = `ShallowWrapper {}`;
+
+exports[`Pruebas en el <GifGrid/>>  Debe de mostrarse correctamente  1`] = `ShallowWrapper {}`;
